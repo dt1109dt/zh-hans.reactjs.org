@@ -11,7 +11,7 @@ next: introducing-jsx.html
 ```js
 ReactDOM.render(
   <h1>Hello, world!</h1>,
-  document.getElementById('root')
+  document.getElementById('root666')
 );
 ```
 
